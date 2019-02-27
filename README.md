@@ -1,6 +1,6 @@
-# React_Courses
+# React_Alura
 
-Repositório referente aos cursos de React e React Native da Alura
+Repository for the Web App developed during the Alura's ReactJS courses.
 
-Cursos:
-1. [React parte 1: componentes reutilizáveis para sua webapp](https://cursos.alura.com.br/course/react)
+Courses (in Brazilian Portuguese):
+1. [React parte 1: componentes reutilizáveis para sua webapp (React part 1: reusable components for your webapp)](https://cursos.alura.com.br/course/react)
