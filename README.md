@@ -1,4 +1,4 @@
-# React_Alura
+# React Alura
 
 Repository for the Web App developed during the Alura's ReactJS courses.
 
